@@ -11,3 +11,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/userName/repoName.git
 git push --force origin master
 ```
+4. THen ask 
