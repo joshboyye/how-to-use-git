@@ -5,10 +5,10 @@
 3.  Then just use the command line that I wrote down here 
 ```command.md
 git init
-git add README.md
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/userName/repoName.git
-git push --force origin master
+git status
+git remote add origin "your_url_name"
+git push -u origin master
 ```
 4. THen ask 
