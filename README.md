@@ -9,6 +9,7 @@ git add .
 git commit -m "first commit"
 git status
 git remote add origin "your_url_name"
+git push -f origin master
 git push -u origin master
 ```
 4. THen ask 
